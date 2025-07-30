@@ -7,7 +7,7 @@ int main() {
     float PIB;                               //PIB em bilhões de reais
     int pontosTuricos;                        //Quantidade de pontos turisticos 
 
-    
+    printf("novo commit: \n");
     printf("cadastro da carta 1: \n");
     scanf(" %s", codigodascartas);
     
