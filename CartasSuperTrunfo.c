@@ -1,5 +1,6 @@
 int main() {
     // Carta 1
+    printf("Novo vomiit")
     char estado [50];                        
     char codigodascartas [04];              
     char nomeCidade [50];                    
