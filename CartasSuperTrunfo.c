@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Novo commit nivel mestre");
 
     // Carta 1
     char estado1[50], codigo1[5], nomeCidade1[50];                                                 
