@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // Estrutura para representar uma carta
+     int if else 
 typedef struct {
     char estado[50];
     char codigo[5];
